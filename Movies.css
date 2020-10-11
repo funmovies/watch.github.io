@@ -1,0 +1,14 @@
+div{
+	font-size:30px;
+	color:rgb(0,0,0);
+	text-align: justify;
+	font-size:22px;
+	display:inline;
+}
+
+a{
+	font-size:22px;
+	color:red;
+	font-weight:bold;
+	cursor:mouse;
+}

@@ -1,0 +1,25 @@
+div{
+	font-size:22px;
+	color:rgb(0,255,255);
+	text-align: justify;
+}
+body{
+	background-color: rgb(0,0,0);
+}
+div2{
+	font-size:22px;
+	color:rgb(255,255,255);
+	text-align: justify;
+}
+a{
+	font-size:30px;
+	color:red;
+	font-weight:bold;
+	cursor:mouse;
+}
+div3{
+	font-size:30px;
+	color:red;
+	font-weight:bold;
+	cursor:mouse;
+}
